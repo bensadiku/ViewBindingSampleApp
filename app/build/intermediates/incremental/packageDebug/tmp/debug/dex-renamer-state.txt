@@ -1,0 +1,4 @@
+#Fri Sep 13 23:15:40 CEST 2019
+base.0=D\:\\ViewBindingSampleApp\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
